@@ -1,0 +1,12 @@
+Dataset: Iris
+Qubits: 4
+Circuit Layers: 3
+Encoding: Angle Encoding
+Shots: 2048
+
+Baseline VQC Accuracy: ~0.30
+Trained VQC Accuracy: ~0.50
+Hybrid Model Accuracy: 0.90
+
+Observation:
+Hybrid quantum-classical model significantly outperforms standalone quantum models.
